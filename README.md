@@ -1,1 +1,2 @@
 # CodeAlpha-Task--1.2
+This project trains a CNN on the CIFAR-10 dataset for image classification using TensorFlow and Keras. The model includes convolutional layers, max pooling, and dense layers. It achieves classification on test images and also detects faces using a Haar Cascade Classifier, estimating gender based on intensity. Custom images are processed for classification and gender detection.
